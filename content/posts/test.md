@@ -1,8 +1,8 @@
 ---
 date: 2020-11-16T13:17:53Z
-hero_image: "/content/images/ruslan-bardash-g83y6do219w-unsplash.jpg"
+hero_image: "/content/images/sharon-mccutcheon-Th_WZMUPnO4-unsplash.jpg"
 title: test xyz
-author: Friedrich Nietzsche
+author: Grace Hopper
 
 ---
 ## Some Test Text
